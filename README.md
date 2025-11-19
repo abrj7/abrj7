@@ -1,7 +1,7 @@
 <div align="center">
-    <h1><em>ab.rj</em></h1>
-  <p>a <em>high-schooler</em>,</p>
-  <p>an <em>aspiring coder</em>,</p>
+    <h1><em>abdullah</em></h1>
+  <p>a <em>software eng @ uwaterloo</em>,</p>
+  <!-- <p>an <em>aspiring coder</em>,</p> -->
 </div>
 
 
