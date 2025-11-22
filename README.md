@@ -21,7 +21,7 @@
   </a> -->
 </p>
 
-<a href="#dereknguyen269-title">
+<a href="#abdullah">
   <img src="https://github-readme-stats.vercel.app/api?username=abrj7&show_icons=true&theme=tokyonight" alt="abdullah" align="right" />
 </a>
 
