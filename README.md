@@ -8,10 +8,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=6627F7&center=true&width=435&lines=hey!+i'm+abdullah;" alt="Typing SVG" /></a>
 </div>
 
-<p>
-    
-</p>
-
 <!-- <h1 align="center" id="macropower-title">abdullah</h1> -->
 <hr>
 <p align="left">
