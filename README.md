@@ -61,11 +61,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrj7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### featured projects
+[![Otto](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=otto&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/otto)
+[![Sketchy](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=sketchy&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/sketchy)
 [![Auralis](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=auralis&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/auralis)
 [![Bipolar Disorder](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=bipolar-disorder-classifier&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/bipolar-disorder-classifier)
 [![Proximus](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=proximus-exoplanet-tool&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/proximus-exoplanet-tool)
-[![Mask CNN](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=mask-detection-with-cnn&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/mask-detection-with-cnn)
-[![Vector](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=vector-simulation-algorithm&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/vector-simulation-algorithm)
 [![GPT Relief](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=gpt-disaster-relief&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/gpt-disaster-relief)
 
 ### contact
