@@ -28,8 +28,8 @@
 
 
 - software eng '30 @ uwaterloo 
-- working on ai voice agents 
-- skipping lectures, grinding linkedin connections
+- working on otto & voice agents
+- skipping lectures
 - sleep deprived
 - [website](https://abrj7.github.io/)
 
