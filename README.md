@@ -63,7 +63,6 @@ work:
 </p>
 
 <!--
-### top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrj7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### featured projects
