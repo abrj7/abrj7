@@ -62,9 +62,8 @@ work:
 <a href=""><img src="https://img.shields.io/badge/-Pandas-313131?style=for-the-badge&labelColor=313131&logo=pandas&logoColor=violet&color=313131"></img></a>
 </p>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrj7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ### featured projects
 [![Otto](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=otto&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/otto)
 [![Sketchy](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=sketchy&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/sketchy)
