@@ -23,9 +23,6 @@
 </p>
 
 
-<!-- <a href="#abdullah">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrj7&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000" alt="abdullah" align="right" />
-</a> -->
 
 
 - hi, i'm abdullah
