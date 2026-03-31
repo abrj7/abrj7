@@ -68,7 +68,7 @@ work:
 [![Bipolar Disorder](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=bipolar-disorder-classifier&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/bipolar-disorder-classifier)
 [![Proximus](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=proximus-exoplanet-tool&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/proximus-exoplanet-tool)
 [![GPT Relief](https://github-readme-stats.vercel.app/api/pin/?username=abrj7&repo=gpt-disaster-relief&bg_color=30,5C3E94,0C2B4E&title_color=fff&text_color=fff&border_color=000&border_radius=5)](https://github.com/abrj7/gpt-disaster-relief)
--->
+
 ### contact
 <a href="mailto:abdrajput29@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-313131?style=for-the-badge&labelColor=313131&logo=gmail&logoColor=red&color=313131"></img></a>
 <a href="https://replit.com/@abdrj7"><img src="https://img.shields.io/badge/-ReplIt-313131?style=for-the-badge&labelColor=313131&logo=replit&logoColor=gray&color=313131"></img></a>
