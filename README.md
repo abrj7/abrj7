@@ -33,7 +33,7 @@
 
 work:
 - previously → quantum computing focus [@tks](https://www.tks.world/), programming since 2020, founder [@finlit_society](https://www.instagram.com/fin.lit_society/)
-- currently → developing [otto](https://github.com/abrj7.otto), working on f1tenth [@watonomous](https://www.watonomous.ca/), log organizer at [hack the north](https://hackthenorth.com/)
+- currently → working on f1tenth [@watonomous](https://www.watonomous.ca/), log organizer at [hack the north](https://hackthenorth.com/)
 - future goals → move to sf, visit tokyo
 
 
