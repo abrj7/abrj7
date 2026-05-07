@@ -9,7 +9,7 @@
 </div> -->
 
 <!-- <h1 align="center" id="macropower-title">abdullah</h1> -->
-<hr>
+<!-- <hr>
 <p align="left">
   <a href="https://github.com/abrj7">
     <img src="https://komarev.com/ghpvc/?username=OldWizard209&color=blue" alt="page views">
@@ -20,7 +20,7 @@
   <!-- <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a> -->
-</p>
+</p> -->
 
 
 
