@@ -25,8 +25,9 @@
 
 
 
-- hi, i'm abdullah
-- software eng @ [uwaterloo](https://uwaterloo.ca/)
+- hi, i'm abdullah...
+- ml @ rocket
+-  software eng @ [uwaterloo](https://uwaterloo.ca/)
 - working on ml models and voice agents
 - skipping lectures
 - website: [abdullahr.com](https://abdullahr.com/)
