@@ -32,7 +32,7 @@
 - - website: [abdullahr.com](https://abdullahr.com/)
 
 work:
-- previously → quantum computing focus [@tks](https://www.tks.world/), programming since 2020, founder [@finlit_society](https://www.instagram.com/fin.lit_society/)
+- previously → qc focus [@tks](https://www.tks.world/), programming since 2020, founder [@finlit_society](https://www.instagram.com/fin.lit_society/)
 - currently → working on f1tenth [@watonomous](https://www.watonomous.ca/), log organizer at [hack the north](https://hackthenorth.com/)
 - future goals → move to sf, visit tokyo
 
