@@ -36,7 +36,8 @@ work:
 - currently → working on f1tenth [@watonomous](https://www.watonomous.ca/), log organizer at [hack the north](https://hackthenorth.com/)
 - future goals → move to sf, visit tokyo
 
-
+  
+<!--
 ### tech stack:
 <p align= "left">
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python 3-313131?style=for-the-badge&labelColor=313131&logo=python&logoColor=blue&color=313131"></img></a>
@@ -45,7 +46,7 @@ work:
 <a href="https://www.w3schools.com/html/html_intro.asp"><img src="https://img.shields.io/badge/-HTML5-313131?style=for-the-badge&labelColor=313131&logo=html5&logoColor=orange&color=313131"></img></a>
 <a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://img.shields.io/badge/-CSS3-313131?style=for-the-badge&labelColor=313131&logo=css3&logoColor=blue&color=313131"></img></a>
 <a href="http://expressjs.com"><img src="https://img.shields.io/badge/-ExpressJS-313131?style=for-the-badge&labelColor=313131&logo=express&logoColor=blue&color=313131"></img></a>
-<!-- <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/-Heroku-313131?style=for-the-badge&labelColor=313131&logo=heroku&logoColor=purple&color=313131"></img></a> -->
+<a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/-Heroku-313131?style=for-the-badge&labelColor=313131&logo=heroku&logoColor=purple&color=313131"></img></a>
 <a href="https://jquery.com/"><img src="https://img.shields.io/badge/-JQuery-313131?style=for-the-badge&labelColor=313131&logo=jquery&logoColor=green&color=313131"></img></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-313131?style=for-the-badge&labelColor=313131&logo=django&logoColor=white&color=313131"></img></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-ReactJS-313131?style=for-the-badge&labelColor=313131&logo=react&logoColor=red&color=313131"></img></a>
