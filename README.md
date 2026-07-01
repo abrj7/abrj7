@@ -29,7 +29,7 @@
 - ml @ rocket
 -  software eng @ [uwaterloo](https://uwaterloo.ca/)
 - working on ml models and voice agents
-- - website: [abdullahr.com](https://abdullahr.com/)
+- website: [abdullahr.com](https://abdullahr.com/)
 
 work:
 - previously → qc focus [@tks](https://www.tks.world/), programming since 2020, founder [@finlit_society](https://www.instagram.com/fin.lit_society/)
