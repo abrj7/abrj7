@@ -24,18 +24,18 @@
 
 <img width="1792" height="1008" alt="ambition" src="https://github.com/user-attachments/assets/14d5a979-8869-42c6-9838-cedbd0d11901" />
 
+<br>
 
-
-- hi, i'm abdullah...
-- ml @ rocket
--  software eng @ [uwaterloo](https://uwaterloo.ca/)
+hi, i'm abdullah...
+- prev ml @ rocket
+- software eng @ [uwaterloo](https://uwaterloo.ca/)
 - working on ml models and voice agents
 - website: [abdullahr.com](https://abdullahr.com/)
 
 work:
 - previously → qc focus [@tks](https://www.tks.world/), programming since 2020, founder [@finlit_society](https://www.instagram.com/fin.lit_society/)
 - currently → working on f1tenth [@watonomous](https://www.watonomous.ca/), log organizer at [hack the north](https://hackthenorth.com/)
-- future goals → move to sf, visit tokyo
+- future goals → obtain a skydiving and pilot's license
 
   
 <!--
